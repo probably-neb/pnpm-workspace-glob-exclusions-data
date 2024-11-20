@@ -1,0 +1,1 @@
+open repos.json | par-each { |$repo| try { gh api $repo.url | from json } catch { null } | {name: $repo.name, url: $repo.url, data: $in } } | save data.json

@@ -1,0 +1,7085 @@
+[
+  {
+    "workspaces": [
+      "packages/*",
+      "website",
+      "examples/**",
+      "!examples/gatsby/**",
+      "!examples/webpack4"
+    ]
+  },
+  {
+    "workspaces": [
+      "./packages/*",
+      "./sandbox",
+      "./docs",
+      "./test-utils"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/ecmascript",
+      "examples/es-module",
+      "examples/markdown",
+      "examples/indentation-sensitive",
+      "examples/operators",
+      "examples/simple-lisp",
+      "examples/typescript"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "tests"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "appFrame",
+      "gateway",
+      "./**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/adapter",
+      "packages/snap",
+      "packages/types",
+      "packages/example",
+      "packages/ecc"
+    ]
+  },
+  {
+    "workspaces": [
+      "common",
+      "worker",
+      "."
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "src/module/*",
+      "src/module-system/*",
+      "src/module-vendor/*",
+      "src/suite/*/modules/*",
+      "src/suite-vendor/*/modules/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "apps/nextjs",
+      "packages/*",
+      "tooling/*",
+      "turbo/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "pages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "next-docs",
+      "packages/**",
+      "workspaces/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "./packages/*",
+      "./sandbox"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "core/api",
+      "apps/consent",
+      "apps/dashboard",
+      "apps/admin-panel",
+      "apps/pay",
+      "apps/map",
+      "apps/voucher",
+      "bats/helpers/callback",
+      "bats/helpers/subscriber",
+      "bats/helpers/totp",
+      "lib/eslint-config",
+      "lib/gt3-server-node-express-sdk",
+      "lib/galoy-components"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "@types/@*/*",
+      "@types/*",
+      "packages/*/*",
+      "packages/*/*/tests",
+      "packages/*/*/bench",
+      "demos/*",
+      "demos/*/tests",
+      "workspace/@*/*",
+      "workspace/@*/*/tests",
+      "workspace/*",
+      "workspace/*/tests",
+      ".yalc/*",
+      ".yalc/@*/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/core",
+      "packages/core/test/fixtures/*",
+      "packages/create-fuse-app",
+      "website"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "test-app"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demos/*",
+      "docs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*",
+      "www"
+    ]
+  },
+  {
+    "workspaces": [
+      "example",
+      "dist"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples",
+      "scripts",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/examples/**",
+      "packages/temp/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**/*",
+      "playground/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/*/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "typescript/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "packages/filters/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "packages/*",
+      "apps/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "charts/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/**",
+      "tools/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "form-demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "specs/**",
+      "scripts"
+    ]
+  },
+  {
+    "workspaces": [
+      "js",
+      "core/js",
+      "integrations/*"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "private/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "templates/*",
+      "platforms/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "@package/*",
+      "@client"
+    ]
+  },
+  {
+    "workspaces": [
+      "lib",
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "configs/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "c",
+      "z"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "frontend",
+      "backend",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "new-package-template",
+      "elacca",
+      "example-app"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "test-packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/ui/*",
+      "packages/ui-icons/*",
+      "packages/ui-theme/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "tests"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "internal/*",
+      "examples",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "version-metadata",
+      "publish"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!packages/templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/client",
+      "packages/server"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/ndk/ndk",
+      "packages/ndk/ndk-cache-dexie",
+      "packages/ndk/ndk-svelte",
+      "packages/ndk/packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "play",
+      "core",
+      "build"
+    ]
+  },
+  {
+    "workspaces": [
+      "loader",
+      "application"
+    ]
+  },
+  {
+    "workspaces": [
+      "ember-assign-helper",
+      "test-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "docs",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "ci"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "sandbox",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "www",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "presets/*",
+      "commands/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "tests",
+      "size"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "theme-vdoing/"
+    ]
+  },
+  {
+    "workspaces": [
+      "website/"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "tooling/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "packages/playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "examples/**",
+      "!**/.next/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "presentation",
+      "components",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "flow-editor",
+      "dev-server",
+      "stdlib",
+      "website",
+      "editor",
+      "remote-debugger",
+      "resolver",
+      "runtime",
+      "playground",
+      "vscode-extension",
+      "!examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**",
+      "tools/**",
+      "extensions/**",
+      "indexer/**",
+      "explorer-ui"
+    ]
+  },
+  {
+    "workspaces": [
+      "api/api-npm",
+      "api/api-example",
+      "language-server/language-server-npm",
+      "integration-tests"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/core",
+      "packages/playground/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "apps/*/packages/*",
+      "apps/*/api",
+      "!apps/duckguessr*",
+      "packages/*",
+      "util/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!**/test/**",
+      "!**/__tests__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "packages/drupal/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "config/**/*",
+      "src/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "adblock-detect-react/**",
+      "vite-test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "android",
+      "apps/*",
+      "!apps/envio",
+      "assets",
+      "bin",
+      "configurations/*",
+      "contracts",
+      "crates",
+      "fastlane",
+      "ios",
+      "packages/*",
+      "pods"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "core/ci-cd",
+      "core/configs",
+      "core/design-system",
+      "core/internationalization/*",
+      "core/tests/*",
+      "core/toolkit",
+      "docs",
+      "micro-apps",
+      "micro-services"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "react",
+      "example",
+      "plugins"
+    ]
+  },
+  {
+    "workspaces": [
+      "common",
+      "worker",
+      "."
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "test-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demos/*",
+      "docs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/*/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "configs/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "configs/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "configs/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "tests"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "tests"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "packages/playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "packages/playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/mermaid/src/docs",
+      "packages/mermaid/src/vitepress",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/core/*",
+      "packages/tools/*",
+      "packages/ui/*",
+      "packages/server/*",
+      "packages/logger/*",
+      "packages/plugins/audit",
+      "packages/plugins/auth-memory",
+      "packages/plugins/htpasswd",
+      "packages/plugins/ui-theme",
+      "packages/plugins/memory",
+      "packages/plugins/local-storage",
+      "e2e/cli/*",
+      "e2e/ui",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "infra/**",
+      "website/**",
+      "e2e/**",
+      "tests/**",
+      "tests/typings/**",
+      "examples/wdio/**",
+      "examples/standalone/**",
+      "examples/pageobject/**",
+      "examples/cloudservices/**",
+      "examples/bidi/**",
+      "examples/appium/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "eslint-config"
+    ]
+  },
+  {
+    "workspaces": [
+      "sites/*",
+      "packages/*",
+      "playgrounds/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "examples/angular/**",
+      "examples/react/**",
+      "examples/solid/**",
+      "examples/vue/**",
+      "examples/lit/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "build-all",
+      "connectors/absurd-sql-connector",
+      "connectors/capacitor-sqlite-connector",
+      "connectors/sqlite3-connector",
+      "connectors/sqljs-connector",
+      "connectors/wa-sqlite-connector",
+      "examples/monopoly",
+      "examples/todo-mvc",
+      "examples/chinook",
+      "examples/todo-mvc-mem",
+      "examples/demo",
+      "extensions/authorization-grammar",
+      "extensions/graphql-codegen",
+      "extensions/graphql-grammar",
+      "extensions/mutation-grammar",
+      "extensions/mutation-codegen",
+      "integration-tests/browser",
+      "integration-tests/node",
+      "integration-tests/shared",
+      "packages/cache-runtime-ts",
+      "packages/codegen",
+      "packages/codegen-api",
+      "packages/codegen-cli",
+      "packages/codegen-sql",
+      "packages/codegen-ts",
+      "packages/context-runtime-ts",
+      "packages/crr-sqlite/instead-of-prototype/test",
+      "packages/feature-gates",
+      "packages/grammar-extension-api",
+      "packages/instrument",
+      "packages/migration-runtime-ts",
+      "packages/model-runtime-ts",
+      "packages/mutator-runtime-ts",
+      "packages/parse-ts",
+      "packages/query-runtime-ts",
+      "packages/react",
+      "packages/runtime-ts",
+      "packages/schema",
+      "packages/schema-api",
+      "packages/sql-ts",
+      "packages/vscode"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "bindings/node"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/examples/*",
+      "packages/agtree/benchmark",
+      "packages/tsurlfilter/test/builders/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "interface",
+      "apps/*",
+      "crates/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "minibmy/",
+      "nju09/",
+      "web/"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "lib/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "packages/integrations/expressions/*",
+      "packages/integrations/formatters/*",
+      "packages/integrations/stores/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demo",
+      "demo-openid",
+      "samples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "velvet-thunder",
+      "test-app",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "components/**",
+      "apps/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "apps/xeml/test",
+      "packages/**",
+      "packages/data/test",
+      "packages/feat-db/test"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/**",
+      "resources/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "play"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo",
+      "packages/**",
+      "packages/vue",
+      "packages/vue/playground",
+      "packages/react",
+      "packages/react/playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "example",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/catts_engine",
+      "packages/catts_frontend",
+      "packages/catts_payments",
+      "packages/ic_siwe_provider"
+    ]
+  },
+  {
+    "workspaces": [
+      "cli/*",
+      "configs/*",
+      "ui/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "test",
+      "*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/node-basic",
+      ".",
+      "examples/solid"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "common",
+      "locales",
+      "main",
+      "preload",
+      "renderer"
+    ]
+  },
+  {
+    "workspaces": [
+      "docgen/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/nextjs",
+      "packages/api",
+      "packages/config/*",
+      "packages/ui",
+      "packages/game-logic"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/embroider-rooturl-repro",
+      "apps/test-app-classic",
+      "apps/test-app-embroider"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "demo/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "web/*",
+      "pkgs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "e2e/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/example",
+      "packages/ginger-book",
+      "e2e/addons",
+      "e2e/babel",
+      "e2e/commonjs",
+      "e2e/config",
+      "e2e/config-ts",
+      "e2e/css",
+      "e2e/decorators",
+      "e2e/playwright",
+      "e2e/playwright-config",
+      "e2e/programmatic",
+      "e2e/provider",
+      "e2e/baseweb",
+      "e2e/msw"
+    ]
+  },
+  {
+    "workspaces": [
+      "dictionaries/*",
+      "@cspell/cspell-tools"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/next-demo",
+      "apps/qwik-demo",
+      "libs/qwikdev-next"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/plugins/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "contract"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "."
+    ]
+  },
+  {
+    "workspaces": [
+      "1password-libs/*",
+      "1password-share-link-to-url-scheme/",
+      "example/",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "main",
+      "web/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "./@app/*",
+      "./packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/qiankun/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/ts-for-gir/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "services/*",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "cloudfront",
+      "kvs"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/ts/*",
+      "examples/ts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "nest"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/__test__/**",
+      "!**/demos/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "packages/core",
+      "packages/*",
+      "!**/test/**",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/",
+      "playground/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/fortune-wheel-booth-frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "schemas/sanity-meta",
+      "schemas",
+      "schemas/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/nextjs",
+      "examples/nodejs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "packages/@keynote/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "services/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "chain-dsl",
+      "chain"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "./packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "projects/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "arrgh",
+      "hnng",
+      "waat"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playground/**",
+      "internal",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "example/frontend",
+      "example/backend/echo/node-server",
+      "src/grpc-web-pb-transform",
+      "src/grpc-web-invoker"
+    ]
+  },
+  {
+    "workspaces": [
+      "js/client",
+      "js/extension"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "slides/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "**/**",
+      "!**/dist/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "pkg/*",
+      "template/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "samples/*",
+      "shared/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/track/**/*",
+      "packages/ProjectValiate/**/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/commerce",
+      "packages/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "interface",
+      "emails",
+      "stories"
+    ]
+  },
+  {
+    "workspaces": [
+      "spectator-client/",
+      "polis-node-raub/",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "subqueries/*",
+      "!subqueries/common/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "orders",
+      "products",
+      "user"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "tooling/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "example",
+      "framework",
+      "vite"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/common",
+      "packages/data-layer",
+      "packages/eslint-config-gitcoin",
+      "packages/round-manager",
+      "packages/grant-explorer",
+      "packages/builder",
+      "packages/verify-env"
+    ]
+  },
+  {
+    "workspaces": [
+      "./**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/*",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "npm/*",
+      "src-capacitor"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "!**/jest/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apis/*",
+      "apps/*",
+      "examples/*",
+      "packages/**",
+      "protocols/**",
+      "subgraphs/*",
+      "scripts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "tools/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/*",
+      "demos/*",
+      "docs-website"
+    ]
+  },
+  {
+    "workspaces": [
+      "effect",
+      "consumers/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "client/**",
+      "server/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "releases/*",
+      "layers/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "yonode.org",
+      "docs.yonode.org"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "backend",
+      "cli"
+    ]
+  },
+  {
+    "workspaces": [
+      "test/playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/config/eslint",
+      "packages/config/tsconfig",
+      "packages/config/prettier",
+      "packages/config/jest",
+      "packages/common",
+      "packages/bench",
+      "packages/interface",
+      "algorithms/*/",
+      "algorithms/*/__bench__/",
+      "data-structures/*/",
+      "data-structures/*/__bench__/",
+      "containers/*/",
+      "containers/*/__bench__/",
+      "LC/*/"
+    ]
+  },
+  {
+    "workspaces": [
+      "solutions",
+      "solution-parser",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/@next-fetch/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "www",
+      "backend",
+      "ui"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/db",
+      "packages/trpc",
+      "apps/web",
+      "apps/api"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "web-apps/*",
+      "web-packages/*",
+      "docs/site"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "!.*",
+      "!node_modules"
+    ]
+  },
+  {
+    "workspaces": [
+      "projects/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "services/**",
+      "scripts/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "app/*",
+      "module-federation/*",
+      "components/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "client/trailbase-ts",
+      "docs",
+      "ui/admin",
+      "ui/auth",
+      "examples/blog/web",
+      "examples/coffeesearch",
+      "examples/tutorial/scripts",
+      "trailbase-core/js"
+    ]
+  },
+  {
+    "workspaces": [
+      "components/**",
+      "documentation/",
+      "packages/*",
+      "proprietary/*",
+      "uxpin-merge/"
+    ]
+  },
+  {
+    "workspaces": [
+      "./apps/api/core/api-gateway",
+      "./apps/api/core/users-jobs-service",
+      "./apps/client"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "servers/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "test"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/components",
+      "packages/create-web",
+      "packages/create-web/template/web"
+    ]
+  },
+  {
+    "workspaces": [
+      "actions/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples",
+      "examples/**/*",
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "simulation/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "api"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "configs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "config",
+      "docs",
+      "theme"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "private/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "lobby",
+      "tests",
+      "site"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground",
+      "./playground/release/app",
+      "packages/*",
+      "examples/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "grammar/*",
+      "exercise/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "docs",
+      "node-ui"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground/*",
+      "tools/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend/*",
+      "!backend/recommend-services",
+      "frontend/*",
+      "packages/*",
+      "scripts"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "integrations/*",
+      "examples/react/*",
+      "examples/vue/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "bindings/*/nodejs"
+    ]
+  },
+  {
+    "workspaces": [
+      "services/**",
+      "clients/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "server",
+      "app",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/components-angular/projects/*",
+      "packages/intranet-header-workspace/projects/*",
+      "packages/styles-primeng-workspace/projects/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "site/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "fe",
+      "pkgs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "nakama/*",
+      "shared",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "directives",
+      "docs",
+      "play"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "c1a/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "functions/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!**/__test__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "astro-*",
+      "docusaurus",
+      "nextjs"
+    ]
+  },
+  {
+    "workspaces": [
+      "shared/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "modules/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/mermaid/src/docs",
+      "packages/mermaid/src/vitepress",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/mermaid/src/docs",
+      "packages/mermaid/src/vitepress",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/mermaid/src/docs",
+      "packages/mermaid/src/vitepress",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/mermaid/src/docs",
+      "packages/mermaid/src/vitepress",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "examples/angular/**",
+      "examples/react/**",
+      "examples/solid/**",
+      "examples/vue/**",
+      "examples/lit/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "./@app/*",
+      "./packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "interface",
+      "emails",
+      "stories"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/common",
+      "packages/data-layer",
+      "packages/eslint-config-gitcoin",
+      "packages/round-manager",
+      "packages/grant-explorer",
+      "packages/builder",
+      "packages/verify-env"
+    ]
+  },
+  {
+    "workspaces": [
+      "apis/*",
+      "apps/*",
+      "examples/*",
+      "packages/**",
+      "protocols/**",
+      "subgraphs/*",
+      "scripts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apis/*",
+      "apps/*",
+      "examples/*",
+      "packages/**",
+      "protocols/**",
+      "subgraphs/*",
+      "scripts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/@next-fetch/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/@next-fetch/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/@next-fetch/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "!.*",
+      "!node_modules"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "!.*",
+      "!node_modules"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "!.*",
+      "!node_modules"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "!.*",
+      "!node_modules"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "servers/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "configs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "configs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "configs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!**/__test__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "shared/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "shared/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "shared/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "shared/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "e2e",
+      "examples/*",
+      "types/*",
+      "webapps/*",
+      "services/*",
+      "cli/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "sandbox/*",
+      "sandbox/component-lib/**",
+      "playground",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playgrounds/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "test-packages/*",
+      "types/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**/*",
+      "!playwright"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!packages/a",
+      "!packages/b*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "packages/components",
+      "packages/crane",
+      "packages/grid",
+      "packages/icons",
+      "packages/layout",
+      "packages/test",
+      "packages/themes",
+      "packages/typography",
+      "packages/typewriter",
+      "examples/angular",
+      "examples/react",
+      "examples/vue"
+    ]
+  },
+  {
+    "workspaces": [
+      "**"
+    ]
+  },
+  {
+    "workspaces": [
+      "worker/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "functions/*",
+      "providers/*",
+      "schemas/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/bookmarklet",
+      "packages/readme"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "jobs",
+      "config/*",
+      "integrations/*",
+      "packages/*",
+      "storybook"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "site",
+      "api",
+      "types"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      "svelte-spotlight",
+      "documentation"
+    ]
+  },
+  {
+    "workspaces": [
+      "./*",
+      "../helpers"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "tests",
+      "configs",
+      "docs",
+      "figma"
+    ]
+  },
+  {
+    "workspaces": [
+      "pkg/headlamp",
+      "pkg/trim",
+      "pkg/gas",
+      "components/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "configs/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "!apps/examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "common",
+      "config",
+      "contracts",
+      "gulp",
+      "svelte",
+      "sveltekit",
+      "wordpress",
+      "providers",
+      "skale"
+    ]
+  },
+  {
+    "workspaces": [
+      "ember-native",
+      "docs-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "configs/**",
+      "demo/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/core",
+      "libs/browser",
+      "libs/lit"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "components/**",
+      "packages/**/__tests__/**",
+      "docs",
+      "nest-server",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/expo",
+      "apps/nextjs",
+      "packages/api",
+      "packages/auth",
+      "packages/db",
+      "packages/lib",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*",
+      "infra/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "shell",
+      "astro",
+      "plugins/template",
+      "plugins/o365",
+      "plugins/postgresql",
+      "plugins/jira",
+      "plugins/sql-server",
+      "plugins/ldap",
+      "testing"
+    ]
+  },
+  {
+    "workspaces": [
+      "documentation",
+      "examples/*",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "poc",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/web",
+      "apps/desktop",
+      "packages/api",
+      "packages/auth",
+      "packages/db",
+      "packages/ui",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/@contentlayer/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "api",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": "app - './*' widget - './widget/*'"
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground",
+      "docs",
+      "runtime/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "configs/*",
+      "api-model-node",
+      "api-model",
+      "extensions",
+      "api-types",
+      "api-typings",
+      "platform-sdk/*",
+      "uni-app/*",
+      "ext/*",
+      "req",
+      "doc",
+      "meta-ui-web"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/expo",
+      "apps/nextjs",
+      "apps/vitejs",
+      "packages/api",
+      "packages/db",
+      "packages/config/*",
+      "packages/ui"
+    ]
+  },
+  {
+    "workspaces": [
+      "VueStudy/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      "server",
+      "client",
+      "../tiny_compiler",
+      "../ts_libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "2022-05-22"
+    ]
+  },
+  {
+    "workspaces": [
+      "sub-dir/odd",
+      "even",
+      "no-yarn"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "components",
+      "components/adapters/angular",
+      "components/adapters/react",
+      "components/adapters/vue",
+      "schema",
+      "theme"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**",
+      "!**/dist/**",
+      "!**dist",
+      "!**uni-vue2-cli",
+      "!**uni-vue3-vite"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "libs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "kit",
+      "www"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/nestjs-bufconnect"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "pro-packages/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "home-next"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "apps"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "scripts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "angular/",
+      "javascript/"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!next-app/**",
+      "!storybook",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "hardhat",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "books/*",
+      "themes/*",
+      "www"
+    ]
+  },
+  {
+    "workspaces": [
+      "create-ao-dapp",
+      "site",
+      "src"
+    ]
+  },
+  {
+    "workspaces": [
+      "jobs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "auth-service",
+      "movie-service",
+      "ticket-service",
+      "payment-service",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "gateway/*",
+      "app/*",
+      "util/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/@oniijs/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "components/**",
+      "!**/test/**",
+      "private-pkgs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "tooling/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "play",
+      "site"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui/*",
+      "storybook/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "lib",
+      "editor"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "."
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "playground",
+      "packages/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "themes/**",
+      "testing/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "ng-sdk-js/pkg",
+      "ng-app",
+      "ngone/web"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**",
+      "."
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/javascript/*",
+      "internals/**/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**",
+      "!**/__test__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "resources/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "dev",
+      "packages/stack"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/assets",
+      "packages/ui-core",
+      "packages/ui-react",
+      "packages/utils",
+      "sandbox"
+    ]
+  },
+  {
+    "workspaces": [
+      "server/**",
+      "client/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "new-package-template",
+      "vercel",
+      "vercel/packages/*",
+      "vercel/internals/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "libs/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**/*",
+      "apps/**/*",
+      "scripts/**/*",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "recon/",
+      "prisma/"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/my-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "worker"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "node",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "teams/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "sum",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "hmis-clients",
+      "hmis-node-server",
+      "./hmis-packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "wasm/pkg",
+      "ast-website/website"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "webview-repos/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/test-serializer",
+      "packages/empty",
+      "packages/polyfills",
+      "packages/polyfills/types",
+      "packages/scripts",
+      "packages/dashboard",
+      "packages/mask",
+      "packages/injected-script",
+      "packages/mask-sdk",
+      "packages/public-api",
+      "packages/shared-base",
+      "packages/shared",
+      "packages/web3-kit",
+      "packages/web3-providers",
+      "packages/web3-constants",
+      "packages/web3-contracts",
+      "packages/web3-shared/base",
+      "packages/web3-shared/evm",
+      "packages/web3-shared/flow",
+      "packages/web3-shared/solana",
+      "packages/storybook-shared",
+      "packages/icons",
+      "packages/theme",
+      "packages/plugin-infra",
+      "packages/plugins/example",
+      "packages/plugins/Debugger",
+      "packages/plugins/Wallet",
+      "packages/plugins/Flow",
+      "packages/plugins/FileService",
+      "packages/plugins/DAO",
+      "packages/plugins/RSS3",
+      "packages/plugins/Solana",
+      "packages/external-plugin-previewer",
+      "packages/backup-format",
+      "packages/encryption",
+      "packages/provider-proxy"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "dev/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "tools/*",
+      "packages/*",
+      "plugins/*",
+      "widgets/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "gateway",
+      "common",
+      "user",
+      "exercise",
+      "media",
+      "learning",
+      "statistics",
+      "logging"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "play",
+      "docs",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "studio"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/client",
+      "apps/server",
+      "types"
+    ]
+  },
+  {
+    "workspaces": [
+      "*/"
+    ]
+  },
+  {
+    "workspaces": [
+      "eslint",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "pkg/dialect",
+      "pkg/example",
+      "pkg/react"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "infra"
+    ]
+  },
+  {
+    "workspaces": [
+      "**"
+    ]
+  },
+  {
+    "workspaces": [
+      "**"
+    ]
+  },
+  {
+    "workspaces": [
+      "**"
+    ]
+  },
+  {
+    "workspaces": [
+      "**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "api",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "api",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "scripts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "scripts/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "hardhat",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "hardhat",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "books/*",
+      "themes/*",
+      "www"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "studio"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "studio"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "studio"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "studio"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "environments/*",
+      "site",
+      "src",
+      "test"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "client/web",
+      "client/shared",
+      "client/web/plugins/**",
+      "client/packages/**",
+      "server",
+      "server/admin",
+      "server/packages/**",
+      "server/plugins/**",
+      "server/test/demo/**",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "tools/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "doc-site",
+      "!**/playground-temp/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "proxy/*",
+      "mgmt-lambda/*",
+      "e2e/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ember-primitives",
+      "test-app",
+      "docs-app",
+      "dev"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**",
+      "support/disabled-package",
+      "!**/test-data/**",
+      "!**/dist/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/main/content-hub-adapter-rss"
+    ]
+  },
+  {
+    "workspaces": [
+      "./packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo-route-controllers-and-template",
+      "test-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "./",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src",
+      "test"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "scraper",
+      "prisma",
+      "crawler"
+    ]
+  },
+  {
+    "workspaces": [
+      "apis/*",
+      "apps/*",
+      "config/*",
+      "packages/**",
+      "protocols/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**",
+      "interface",
+      "scripts",
+      ".github/actions/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "repos/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "worker"
+    ]
+  },
+  {
+    "workspaces": [
+      "pkgs/*",
+      "next",
+      "expo"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "example/"
+    ]
+  },
+  {
+    "workspaces": [
+      "dep",
+      "main"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/api/libraries/*",
+      "packages/api/tools/*",
+      "packages/backend/apps/*/*",
+      "packages/backend/libraries/*",
+      "packages/backend/services/*",
+      "packages/backend/tools/*",
+      "packages/frontend/*",
+      "packages/frontend/libraries/*",
+      "packages/frontend/tools/*",
+      "packages/tools/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "**/client/",
+      "**/server/",
+      "**/web/"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/app"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demos/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "component/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "services/api/",
+      "services/sleepymaid/",
+      "services/helper/",
+      "services/watcher/",
+      "services/website/",
+      "services/testbot/"
+    ]
+  },
+  {
+    "workspaces": [
+      "blocks/*",
+      "components/*",
+      "scaffolds/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "node",
+      "benchmark",
+      "wasm"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/core",
+      "packages/ui",
+      "packages/sandbox",
+      "packages/benchmark"
+    ]
+  },
+  {
+    "workspaces": [
+      "api/",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "site",
+      "uxn"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "sites/*",
+      "packages/adapter-static/test/apps/*",
+      "packages/kit/test/apps/*",
+      "packages/kit/test/prerendering/*",
+      "packages/kit/test/build-errors/**",
+      "packages/kit/test/build-errors/apps/*",
+      "packages/create-svelte/templates/*",
+      "!.test-tmp/**",
+      "playgrounds/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/core",
+      "packages/crdt",
+      "packages/server",
+      "packages/tsconfig",
+      "packages/ts-dot-js/cli",
+      "packages/ts-dot-js/typescript-plugin",
+      "packages/ts-dot-js/vscode-extension",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "api/",
+      "expo/",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./apps/**",
+      "./packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "demos/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "layers/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "projects/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "*-*"
+    ]
+  },
+  {
+    "workspaces": [
+      "talks/**/*",
+      "show"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/client",
+      "apps/server"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "example/",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!packages/template*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/ui",
+      "app/widget",
+      "app/script"
+    ]
+  },
+  {
+    "workspaces": [
+      "node",
+      "plugin-1",
+      "plugin-2",
+      "example",
+      "benchmark",
+      "wasm"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/backend",
+      "packages/backend-rs",
+      "packages/client",
+      "packages/sw",
+      "packages/firefish-js"
+    ]
+  },
+  {
+    "workspaces": [
+      "sandwich-ui",
+      "docs",
+      "storybook"
+    ]
+  },
+  {
+    "workspaces": [
+      "common",
+      "worker",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/react/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "**/src"
+    ]
+  },
+  {
+    "workspaces": [
+      "micros/**",
+      "libraries/**",
+      "root"
+    ]
+  },
+  {
+    "workspaces": [
+      "canvas-capture/",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "design-system/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "dev/*",
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "apps/*",
+      "packages/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "api",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "tools/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "privatePackages/*",
+      "typings",
+      "tools",
+      "utils/*",
+      "!**/__package_previews__/**",
+      "!**/example/**",
+      "!**/test/**",
+      "!packages/local-resolver/example-package/**",
+      "!packages/dependencies-hierarchy/fixtures/**",
+      "!packages/dependencies-hierarchy/fixtureMonorepo/**",
+      "!packages/dependencies-hierarchy/fixtureWithLinks/**",
+      "!privatePackages/test-fixtures/fixtures/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "end-to-end-tests/"
+    ]
+  },
+  {
+    "workspaces": [
+      "./src/app/*",
+      "./src/packages/*",
+      "./src/protocols/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "core/*",
+      "policies/*",
+      "ui/*",
+      "targets/*",
+      "cli",
+      "test",
+      "create/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "plugins/*",
+      "app/.lowdefy/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "ocheck",
+      "ofunc",
+      "oproxy"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo/web/apps/**",
+      "demo/web/libraries/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "labs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "internal/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "test/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "**"
+    ]
+  },
+  {
+    "workspaces": [
+      "extension"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "vite-plugin-react"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/core",
+      "packages/web"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/**/*",
+      "backend/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "websocket_api"
+    ]
+  },
+  {
+    "workspaces": [
+      "01-firstDrawing/**",
+      "02-secondDrawing/**",
+      "03-thirdDrawing/**",
+      "04-fourthDrawing/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "server",
+      "fragments/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "@studybuddy/*",
+      "sb_frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "workspaces": [
+      "./**/*"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/*",
+      "lib/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "web",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "example",
+      "docs",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "pkgs/**",
+      "!**/test/**",
+      "!**/__tests__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "sdk/**",
+      "apps/**",
+      "dapps/**",
+      "examples/**",
+      "!**/dist/**",
+      "!**/.next/**",
+      "!sdk/create-dapp/templates",
+      "!sdk/typescript/*/**",
+      "!sdk/typescript/scripts",
+      "!sdk/typescript/transactions",
+      "!sdk/typescript/cryptography",
+      "!sdk/typescript/faucet",
+      "!sdk/typescript/transactions",
+      "!sdk/typescript/client",
+      "!sdk/typescript/verify",
+      "!sdk/typescript/multisig",
+      "!sdk/typescript/utils",
+      "!sdk/typescript/bcs",
+      "!sdk/typescript/zklogin",
+      "!sdk/enoki/react",
+      "!sdk/move-bytecode-template/pkg",
+      "!sdk/move-bytecode-template/pkg",
+      "!sdk/typescript/graphql"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "build",
+      "build-theme"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "auth",
+      "smh-manager",
+      "meter-manager/create-meter-service",
+      "meter-manager/delete-meter-service",
+      "meter-manager/get-meter-service",
+      "meter-manager/update-meter-service",
+      "smh-manager/create-hub-service",
+      "smh-manager/delete-hub-service",
+      "smh-manager/get-hub-service",
+      "smh-manager/update-hub-service",
+      "user-management/set-all-meters-by-hub-id-service",
+      "user-management/set-meter-by-id-service",
+      "user-management/set-hub-status-service",
+      "meter-setter/create-config",
+      "meter-setter/delete-config",
+      "meter-setter/get-config",
+      "meter-setter/update-config"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "guardrails/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/ffanalytics-api",
+      "packages/ffanalytics-client"
+    ]
+  },
+  {
+    "workspaces": [
+      "**",
+      "![template]"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "internal/lint-configs/*",
+      "packages/*",
+      "packages/@core/base/*",
+      "packages/@core/ui-kit/*",
+      "packages/@core/forward/*",
+      "packages/@core/*",
+      "packages/effects/*",
+      "packages/business/*",
+      "apps/*",
+      "scripts/*",
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "apps/api/*",
+      "function"
+    ]
+  },
+  {
+    "workspaces": [
+      "workers/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "slide*/**",
+      "docs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "@applications/*",
+      "@libraries/*",
+      "@segments/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend",
+      "core-engine"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./example"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "e2e",
+      "frontend",
+      "strapi",
+      "types",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "core",
+      "interface",
+      "docs",
+      "crates/sync/example/web"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "types"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "environments/*",
+      "site",
+      "src",
+      "test"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "doc-site",
+      "!**/playground-temp/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "node",
+      "benchmark",
+      "wasm"
+    ]
+  },
+  {
+    "workspaces": [
+      "api/",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "sites/*",
+      "packages/adapter-static/test/apps/*",
+      "packages/kit/test/apps/*",
+      "packages/kit/test/prerendering/*",
+      "packages/kit/test/build-errors/**",
+      "packages/kit/test/build-errors/apps/*",
+      "packages/create-svelte/templates/*",
+      "!.test-tmp/**",
+      "playgrounds/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "sites/*",
+      "packages/adapter-static/test/apps/*",
+      "packages/kit/test/apps/*",
+      "packages/kit/test/prerendering/*",
+      "packages/kit/test/build-errors/**",
+      "packages/kit/test/build-errors/apps/*",
+      "packages/create-svelte/templates/*",
+      "!.test-tmp/**",
+      "playgrounds/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "sites/*",
+      "packages/adapter-static/test/apps/*",
+      "packages/kit/test/apps/*",
+      "packages/kit/test/prerendering/*",
+      "packages/kit/test/build-errors/**",
+      "packages/kit/test/build-errors/apps/*",
+      "packages/create-svelte/templates/*",
+      "!.test-tmp/**",
+      "playgrounds/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "sites/*",
+      "packages/adapter-static/test/apps/*",
+      "packages/kit/test/apps/*",
+      "packages/kit/test/prerendering/*",
+      "packages/kit/test/build-errors/**",
+      "packages/kit/test/build-errors/apps/*",
+      "packages/create-svelte/templates/*",
+      "!.test-tmp/**",
+      "playgrounds/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "example/",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/ui",
+      "app/widget",
+      "app/script"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/ui",
+      "app/widget",
+      "app/script"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/ui",
+      "app/widget",
+      "app/script"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/ui",
+      "app/widget",
+      "app/script"
+    ]
+  },
+  {
+    "workspaces": [
+      "common",
+      "worker",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "api",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "api",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "api",
+      "web"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "*",
+      "plugins/*",
+      "app/.lowdefy/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "labs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "labs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "labs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "labs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "server",
+      "fragments/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "auth",
+      "smh-manager",
+      "meter-manager/create-meter-service",
+      "meter-manager/delete-meter-service",
+      "meter-manager/get-meter-service",
+      "meter-manager/update-meter-service",
+      "smh-manager/create-hub-service",
+      "smh-manager/delete-hub-service",
+      "smh-manager/get-hub-service",
+      "smh-manager/update-hub-service",
+      "user-management/set-all-meters-by-hub-id-service",
+      "user-management/set-meter-by-id-service",
+      "user-management/set-hub-status-service",
+      "meter-setter/create-config",
+      "meter-setter/delete-config",
+      "meter-setter/get-config",
+      "meter-setter/update-config"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend",
+      "core-engine"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "core",
+      "interface",
+      "docs",
+      "crates/sync/example/web"
+    ]
+  },
+  {
+    "workspaces": [
+      "tools/perspective-test",
+      "tools/perspective-scripts",
+      "tools/perspective-bench",
+      "cpp/perspective",
+      "packages/perspective-client",
+      "packages/perspective-esbuild-plugin",
+      "packages/perspective-viewer-datagrid",
+      "packages/perspective-viewer-d3fc",
+      "packages/perspective-viewer-openlayers",
+      "packages/perspective-workspace",
+      "packages/perspective-jupyterlab",
+      "packages/perspective-webpack-plugin",
+      "packages/perspective-cli",
+      "rust/generate-metadata",
+      "rust/perspective",
+      "rust/perspective-js",
+      "rust/perspective-viewer",
+      "rust/perspective-python",
+      "examples/*",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/@tinacms/*",
+      "examples/*",
+      "experimental-examples/*",
+      "playwright/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "lix/packages/*",
+      "lix/website",
+      "!lix/packages/exp",
+      "inlang/development-projects/*",
+      "inlang/source-code/*",
+      "inlang/source-code/recommendations/*",
+      "inlang/source-code/plugins/*",
+      "inlang/source-code/paraglide/*",
+      "inlang/source-code/end-to-end-tests/*",
+      "inlang/source-code/paraglide/paraglide-vite/tests/*",
+      "inlang/source-code/paraglide/*/example",
+      "inlang/source-code/paraglide/paraglide-next/examples/*",
+      "inlang/source-code/templates/*",
+      "inlang/source-code/message-lint-rules/*",
+      "inlang/source-code/versioned-interfaces/*",
+      "inlang/source-code/sdk/load-test",
+      "inlang/source-code/sdk/multi-project-test"
+    ]
+  },
+  {
+    "workspaces": [
+      ".demo/",
+      "./"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tools/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "studio",
+      "api",
+      "fp-services",
+      "honc-code-gen",
+      "packages/*",
+      "examples/*",
+      "webhonc",
+      "www"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "gh-pages"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/web/",
+      "src/typespec-aaz/",
+      "src/typespec/core/",
+      "src/typespec/packages/*",
+      "src/typespec/core/packages/*",
+      "!src/typespec/core/packages/website",
+      "!src/typespec/packages/website",
+      "!src/typespec/core/packages/http-client-csharp/**",
+      "!src/typespec/core/packages/http-client-java/**",
+      "!src/typespec/core/packages/http-client-python/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/bot",
+      "apps/nextjs",
+      "packages/api",
+      "packages/auth",
+      "packages/db",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "graphql-types",
+      "models/*",
+      "utils",
+      "generators"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "web",
+      "subgraph",
+      "common-lib"
+    ]
+  },
+  {
+    "workspaces": [
+      "ember-deep-tracked",
+      "test-app-*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "./.github/actions/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "ExampleApp",
+      "lib"
+    ]
+  },
+  {
+    "workspaces": [
+      "samples/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "reproductions"
+    ]
+  },
+  {
+    "workspaces": [
+      "example",
+      "theme"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "!apps/data-pipeline",
+      "apps/data-pipeline/*",
+      "packages/*",
+      "!packages/public",
+      "packages/public/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "play"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playground",
+      "test/fixtures/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "docs/**",
+      "playground/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "admin",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs/.vuepress",
+      "example/.vuepress",
+      "packages/@starzkg/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "samples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "blog",
+      "dashboard",
+      "marketing"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!packages/__mocks__",
+      "docs",
+      "!**/__tests__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "docs",
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "ct-react-vite/**",
+      "eslint-plugin-playwright-ct/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "tree-sitter-jinja2",
+      "tree-sitter-jinja2_inline"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "vite2.0/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "../../global/sunny-framework-js/packages/util",
+      "../../global/sunny-framework-js/packages/vue"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "presentations/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "errorpages",
+      "home",
+      "ui-lib",
+      "web",
+      "well-known"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*",
+      "common/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "plugin"
+    ]
+  },
+  {
+    "workspaces": [
+      "client/",
+      "server/"
+    ]
+  },
+  {
+    "workspaces": null
+  },
+  {
+    "workspaces": [
+      "projects/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "components/**",
+      "play",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      ".github/actions/*",
+      "docs",
+      "cli",
+      "packages/*",
+      "benchmark",
+      "nxpkgrepo-tests/*",
+      "examples-tests/*",
+      "!packages/nxpkg",
+      "packages/nxpkg-tracing-next-plugin/test/with-mongodb-mongoose",
+      "crates/nxpkgpack-tests/tests/execution",
+      "crates/*/js",
+      "examples",
+      "!examples/non-monorepo"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "api"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "e2e/**",
+      "integration/*",
+      "libs/*",
+      "packages/*",
+      "!packages/laravel/",
+      "sandboxes/*",
+      "tests/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./",
+      "docs",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "playground",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "turbo",
+      "docs",
+      "packages/*",
+      "examples/*",
+      "packages/*/tests/fixture/*",
+      "packages/*/e2e/fixture/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "base",
+      "sub-app1",
+      "sub-app2"
+    ]
+  },
+  {
+    "workspaces": [
+      "sites/geohub",
+      "packages/**",
+      "!sites/static-image-api"
+    ]
+  },
+  {
+    "workspaces": [
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "vendor/**",
+      "examples/**",
+      "!test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend/*",
+      "packages/*",
+      "services/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "taro-app",
+      "uni-app-vue3"
+    ]
+  },
+  {
+    "workspaces": [
+      "./packages/core",
+      "./packages/server"
+    ]
+  },
+  {
+    "workspaces": [
+      "zwf-app",
+      "zwf-web"
+    ]
+  },
+  {
+    "workspaces": [
+      "cr-sqlite/core",
+      "cr-sqlite/py/correctness",
+      "cr-sqlite/js/packages/browser-tests",
+      "cr-sqlite/js/packages/client-core",
+      "cr-sqlite/js/packages/client-server-common",
+      "cr-sqlite/js/packages/client-websocket",
+      "cr-sqlite/js/packages/create-web",
+      "cr-sqlite/js/packages/crsqlite-wasm",
+      "cr-sqlite/js/packages/node-allinone",
+      "cr-sqlite/js/packages/node-tests",
+      "cr-sqlite/js/packages/p2p",
+      "cr-sqlite/js/packages/react",
+      "cr-sqlite/js/packages/rx-query",
+      "cr-sqlite/js/packages/rx-tbl",
+      "cr-sqlite/js/packages/server-core",
+      "cr-sqlite/js/packages/server-websocket",
+      "cr-sqlite/js/packages/xplat-api",
+      "cr-sqlite/js/packages/xplat-tests",
+      "cr-sqlite/js/tsbuild-all",
+      "cr-sqlite/js/deps/wa-sqlite",
+      "strut/app",
+      "strut/app-server-shared",
+      "strut/server",
+      "strut/deps/access-token-jwt",
+      "strut/deps/oauth2-bearer",
+      "model-js/ts/build-all",
+      "model-js/ts/packages/cache",
+      "model-js/ts/packages/codegen-api",
+      "model-js/ts/packages/codegen-cli",
+      "model-js/ts/packages/codegen-sql",
+      "model-js/ts/packages/codegen-ts",
+      "model-js/ts/packages/config",
+      "model-js/ts/packages/feature-gates",
+      "model-js/ts/packages/grammar-extension-api",
+      "model-js/ts/packages/id",
+      "model-js/ts/packages/instrument",
+      "model-js/ts/packages/migration",
+      "model-js/ts/packages/model",
+      "model-js/ts/packages/model-persisted",
+      "model-js/ts/packages/query",
+      "model-js/ts/packages/react",
+      "model-js/ts/packages/runtime",
+      "model-js/ts/packages/schema",
+      "model-js/ts/packages/schema-api",
+      "model-js/ts/packages/sql",
+      "model-js/ts/packages/util",
+      "model-js/ts/packages/value",
+      "model-js/ts/packages/zone",
+      "model-js/ts/connectors/sqlite3-connector",
+      "model-js/ts/connectors/wa-sqlite-connector",
+      "model-js/ts/integration-tests/data-model",
+      "misc-js/typescript/packages/counter",
+      "misc-js/typescript/packages/counter.ui.launcher",
+      "misc-js/typescript/packages/events",
+      "misc-js/typescript/packages/sid",
+      "misc-js/typescript/packages/utils",
+      "misc-js/typescript/build-all",
+      "template-web/frameworks/react/app",
+      "template-web/shared",
+      "template-web/sync-server"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "pages/*",
+      "libraries/*",
+      "testing"
+    ]
+  },
+  {
+    "workspaces": [
+      "client",
+      "server"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/forge-main-server",
+      "packages/forge-main-client"
+    ]
+  },
+  {
+    "workspaces": [
+      "site",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "project/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "labs/*",
+      "apps/*",
+      "packages/ai/*",
+      "packages/config/*",
+      "packages/infra/*",
+      "packages/domain/*",
+      "packages/entity/*",
+      "packages/ui/*",
+      "packages/feature/*",
+      "packages/resource/*",
+      "packages/service/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./loadBulk",
+      "./streamUpdater",
+      "./webService",
+      "./shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "pages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/web",
+      "packages/api",
+      "packages/auth",
+      "packages/db",
+      "packages/emails",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/client/apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "backend",
+      "client",
+      "manage"
+    ]
+  },
+  {
+    "workspaces": [
+      "css95",
+      "examples/*",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      "nuxtapp/",
+      "base/"
+    ]
+  },
+  {
+    "workspaces": [
+      "backend",
+      "frontend",
+      "shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "libs/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "packages/ndk/ndk",
+      "packages/ndk/ndk-cache-redis",
+      "packages/ndk/ndk-cache-dexie",
+      "packages/ndk/ndk-cache-nostr",
+      "packages/ndk/ndk-wallet",
+      "packages/ndk/ndk-svelte",
+      "packages/ndk/ndk-svelte-components",
+      "packages/ndk/packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "examples/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "me_store_core",
+      "example/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/config/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "test/e2e/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "presentation"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "host",
+      "remote"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "javascript/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "api"
+    ]
+  },
+  {
+    "workspaces": [
+      "app"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "./test-projects/*",
+      "./test-projects/rules/*",
+      "./test-projects/configs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps",
+      "local_server",
+      "libs/*",
+      "iac"
+    ]
+  },
+  {
+    "workspaces": [
+      "taro3-react"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "example/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "!**/test/**",
+      "!**/__tests__/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "configs/**/*",
+      "!**/jest/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/data_structure/*",
+      "packages/digital_signature/*",
+      "packages/hash_functions/*",
+      "packages/protocols/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "src/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "embroider-addon-rebuild-reproduction",
+      "test-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**",
+      "docs/**",
+      "configs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**/*",
+      "packages/**/*",
+      "!**/dist/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/bot"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "packages/api",
+      "packages/auth",
+      "packages/db",
+      "packages/config/*",
+      "scripts"
+    ]
+  },
+  {
+    "workspaces": [
+      "angular",
+      "preact",
+      "react",
+      "solid",
+      "svelte",
+      "vanilla",
+      "vue"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "example/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples",
+      "example-next",
+      "packages/cms",
+      "packages/core",
+      "packages/logiclayer",
+      "packages/vizbuilder",
+      "packages/test",
+      "packages/next"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs",
+      "packages/**",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "Backend",
+      "Frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "app/*",
+      "lib/*",
+      "share/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "labs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "authoring",
+      "publishing"
+    ]
+  },
+  {
+    "workspaces": [
+      "web/themes/custom/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "frontend"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "backend",
+      "rofl-emulator"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/*/*",
+      "playground",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      ".demo/",
+      "./"
+    ]
+  },
+  {
+    "workspaces": [
+      ".demo/",
+      "./"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tools/*",
+      "examples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "web",
+      "subgraph",
+      "common-lib"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "web",
+      "subgraph",
+      "common-lib"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "web",
+      "subgraph",
+      "common-lib"
+    ]
+  },
+  {
+    "workspaces": [
+      "contracts",
+      "web",
+      "subgraph",
+      "common-lib"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "./.github/actions/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playground",
+      "test/fixtures/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playground",
+      "test/fixtures/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playground",
+      "test/fixtures/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "playground",
+      "test/fixtures/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "samples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "samples/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "../../global/sunny-framework-js/packages/util",
+      "../../global/sunny-framework-js/packages/vue"
+    ]
+  },
+  {
+    "workspaces": [
+      "./",
+      "docs",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "example"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "project/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./loadBulk",
+      "./streamUpdater",
+      "./webService",
+      "./shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "./loadBulk",
+      "./streamUpdater",
+      "./webService",
+      "./shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "./loadBulk",
+      "./streamUpdater",
+      "./webService",
+      "./shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "./loadBulk",
+      "./streamUpdater",
+      "./webService",
+      "./shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "packages/config/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "host",
+      "remote"
+    ]
+  },
+  {
+    "workspaces": [
+      "host",
+      "remote"
+    ]
+  },
+  {
+    "workspaces": [
+      "host",
+      "remote"
+    ]
+  },
+  {
+    "workspaces": [
+      "host",
+      "remote"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "javascript/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "javascript/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "example/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "example/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/**",
+      "docs/**",
+      "configs/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "example/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "packages/*/*",
+      "playground",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "app1",
+      "app2"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/angular/*",
+      "examples/react/*",
+      "examples/svelte/*",
+      "examples/vue/*",
+      "examples/lit/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "design-system/docs",
+      "design-system/docs/storybook",
+      "design-system/pkg",
+      "design-system/primitives",
+      "dev-projects/*",
+      "docs",
+      "keystatic",
+      "packages/*",
+      "templates/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "**",
+      "!**/cdn/dist/**",
+      "!compute"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "examples/*",
+      "e2e/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "gradio/js/*",
+      "gradio/client/js",
+      "litegraph/packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "*/src"
+    ]
+  },
+  {
+    "workspaces": [
+      "example",
+      "library"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/module/*",
+      "src/module-vendor/*",
+      "src/suite/*/modules/*",
+      "src/suite-vendor/*/modules/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/eslint-config",
+      "packages/status-js",
+      "packages/colors",
+      "packages/icons",
+      "packages/components",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*/*",
+      "demos/*/*",
+      "demos/dev-demo",
+      "demos/cdn-demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "./"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/core/*",
+      "packages/definitions/*",
+      "packages/oauth/*",
+      "packages/utilities/*",
+      "packages/bluesky/*",
+      "packages/internal/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "config/**/*",
+      "lib/**/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ember-prismic-dom",
+      "test-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*",
+      "website"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "!./libs/editor",
+      "!./libs/diagram",
+      "./libs/*",
+      "!./packages/example-client",
+      "./packages/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/certification/certified-counter/src/frontend",
+      "examples/http-certification/assets/src/frontend",
+      "examples/http-certification/custom-assets/src/frontend",
+      "examples/http-certification/custom-assets/src/tests",
+      "examples/http-certification/json-api/src/tests",
+      "examples/http-certification/skip-certification/src/tests",
+      "examples/http-certification/upgrade-to-update-call/src/tests",
+      "packages/certificate-verification-js",
+      "packages/ic-certification-testing-wasm",
+      "packages/ic-response-verification-wasm",
+      "packages/ic-response-verification-tests/src/frontend",
+      "packages/ic-response-verification-tests/src/wasm-tests"
+    ]
+  },
+  {
+    "workspaces": [
+      "js-binding",
+      "benchmark"
+    ]
+  },
+  {
+    "workspaces": [
+      "languages/**",
+      "playground/**",
+      "tooling/**",
+      "tests/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "plugin",
+      "example-app"
+    ]
+  },
+  {
+    "workspaces": [
+      "android",
+      "apps/*",
+      "crates",
+      "ios"
+    ]
+  },
+  {
+    "workspaces": [
+      "stack",
+      "stack/create"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "test",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "doc"
+    ]
+  },
+  {
+    "workspaces": [
+      "vendetta/*",
+      "revenge/*",
+      "angel/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "lib",
+      "sample/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "scripts",
+      "docs",
+      "example",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "xterio-auth",
+      "xterio-wallet",
+      "xterio-react-webgl-cli"
+    ]
+  },
+  {
+    "workspaces": [
+      "resources/core/*",
+      "resources/watch-server"
+    ]
+  },
+  {
+    "workspaces": [
+      "./packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "apps/**",
+      "scripts"
+    ]
+  },
+  {
+    "workspaces": [
+      "../../blurhash-react",
+      "../../blurhash-react-native"
+    ]
+  },
+  {
+    "workspaces": [
+      "app-src/",
+      "core-src/",
+      "cli-src/",
+      "firmware-src/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "docs/**",
+      "demo/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "frontend/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "libs/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "./packages/*",
+      "./apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "lib",
+      "prep",
+      "home"
+    ]
+  },
+  {
+    "workspaces": [
+      "./apps/*",
+      "./packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/*",
+      "components/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "schema",
+      "server",
+      "client",
+      "docs"
+    ]
+  },
+  {
+    "workspaces": [
+      "core",
+      "packages/botway.js",
+      "create-botway-bot",
+      "strg"
+    ]
+  },
+  {
+    "workspaces": [
+      "fixtures/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "libs/*",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "demo/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "internal/*",
+      "internal/lint-configs/*",
+      "packages/*",
+      "packages/@core/base/*",
+      "packages/@core/ui-kit/*",
+      "packages/@core/forward/*",
+      "packages/@core/*",
+      "packages/effects/*",
+      "packages/business/*",
+      "apps/*",
+      "scripts/*",
+      "docs",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "backend/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "tot-svelte/"
+    ]
+  },
+  {
+    "workspaces": [
+      "package/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages",
+      "apps",
+      "servers"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "upload-jet",
+      "webapp",
+      "infrastructure",
+      "example/**"
+    ]
+  },
+  {
+    "workspaces": [
+      ".",
+      "demo"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend/*",
+      "backend/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**",
+      "services/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "docs/",
+      "."
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/**",
+      "infra/**",
+      "libraries/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "js/*",
+      "gradio",
+      "client/*",
+      "client/*/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/**",
+      "packages/**",
+      "specific-apps/*",
+      "!**/test/**",
+      "!apps/functions/serverless/.gcf_local/**",
+      "!apps/functions/serverless/.serverless-template/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "projects/node-js-project",
+      "projects/my-ts-project",
+      "projects/calculator",
+      "projects/react-project",
+      "projects/my-vite-app",
+      "projects/file-server",
+      "projects/ts-protos-foo",
+      "projects/file-server-protos"
+    ]
+  },
+  {
+    "workspaces": [
+      "typescript/libs/*",
+      "typescript/2015/*",
+      "typescript/2016/*",
+      "typescript/2017/*",
+      "typescript/2018/*",
+      "typescript/2019/*",
+      "typescript/2020/*",
+      "typescript/2021/*",
+      "typescript/2022/*",
+      "typescript/2023/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "tooling/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "playground"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "components/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "frontend",
+      "backend",
+      "shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "src/packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "lib/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "server",
+      "scripts",
+      "clients/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "email/react-email/.react-email/",
+      "email/react-email/"
+    ]
+  },
+  {
+    "workspaces": [
+      "webpack/*",
+      "vue/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "www",
+      "cli"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "api",
+      "shared"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/services/*",
+      "packages/libraries/*",
+      "packages/documentation"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "!packages/*-disabled"
+    ]
+  },
+  {
+    "workspaces": [
+      "app",
+      "pixel-paint"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/ui"
+    ]
+  },
+  {
+    "workspaces": [
+      "nextjs/**",
+      "payload/**",
+      "tests/**",
+      "shared/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "server",
+      "client"
+    ]
+  },
+  {
+    "workspaces": [
+      "config/*",
+      "packages/*",
+      "services/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/www",
+      "apps/docs",
+      "dashboard",
+      "packages/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "ui",
+      "api",
+      "smart-contract",
+      "stripe-ramp",
+      "packages/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "packages/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "teams/*",
+      "apps/*"
+    ]
+  },
+  {
+    "workspaces": [
+      "apps/*",
+      "packages/*",
+      "!**/test/**"
+    ]
+  },
+  {
+    "workspaces": [
+      "examples/*",
+      "packages/*",
+      "doc-site"
+    ]
+  }
+]

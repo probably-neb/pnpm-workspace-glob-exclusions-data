@@ -1,0 +1,1 @@
+open data.json | par-each { $in | insert workspaces { $in.data.content | try { decode base64 | from yaml | get packages } catch { null } } } | select workspaces | save workspaces.json

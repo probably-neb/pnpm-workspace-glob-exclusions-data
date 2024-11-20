@@ -1,0 +1,1 @@
+ls repos/* | each { |$i|  cat $i.name | jq 'map({url: .url, name: .repository.name})' | from json } | flatten | to json | save repos.json
